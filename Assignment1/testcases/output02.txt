@@ -1,0 +1,39 @@
+The original map: 
+. . . . . 
+. . . . . 
+. . G . . 
+. . . . . 
+* . . . . 
+Move block G to the direction n
+. . G . . 
+. . . . . 
+. . . . . 
+. . . . . 
+* . . . . 
+Move block G to the direction w
+G . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+* . . . . 
+Move block G to the direction e
+. . . . G 
+. . . . . 
+. . . . . 
+. . . . . 
+* . . . . 
+Move block G to the direction s
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+* . . . G 
+Move block G to the direction w
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+* . . . . 
+=== Game Ended ===
+0 block(s) remain(s) in the map
+The escape order is G

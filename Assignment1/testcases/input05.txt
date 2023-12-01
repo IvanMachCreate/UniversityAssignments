@@ -1,0 +1,52 @@
+5 6
+ABCDEF
+GHIJKL
+M****N
+OPQRST
+UVWXYZ
+M e
+G s
+G e
+A s
+A e
+P n
+O e
+O n
+V n
+U e
+U n
+N w
+T n
+T w
+Z n
+Z w
+K s
+L w
+L s
+E s
+F w
+F s
+H s
+S n
+B s
+Y n
+J s
+D s
+R n
+X n
+I e
+I s
+I w
+I n
+W w
+W n
+W e
+W s
+Q e
+Q s
+Q w
+Q n
+Q e
+C s
+Q s
+! !

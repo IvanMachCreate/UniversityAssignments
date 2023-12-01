@@ -1,0 +1,4 @@
+2
+./grids/grid2.txt
+9
+N

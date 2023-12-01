@@ -1,0 +1,12 @@
+5 5
+O*ABC
+N...D
+M.Z.E
+L...F
+KJIHG
+Z n
+Z e
+Z s
+Z w
+Z n
+! !

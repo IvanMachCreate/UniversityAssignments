@@ -1,0 +1,279 @@
+The original map: 
+A B C D E F 
+G H I J K L 
+M * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block M to the direction e
+A B C D E F 
+G H I J K L 
+. * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block G to the direction s
+A B C D E F 
+. H I J K L 
+G * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block G to the direction e
+A B C D E F 
+. H I J K L 
+. * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block A to the direction s
+. B C D E F 
+. H I J K L 
+A * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block A to the direction e
+. B C D E F 
+. H I J K L 
+. * * * * N 
+O P Q R S T 
+U V W X Y Z 
+Move block P to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * N 
+O . Q R S T 
+U V W X Y Z 
+Move block O to the direction e
+. B C D E F 
+. H I J K L 
+. * * * * N 
+. O Q R S T 
+U V W X Y Z 
+Move block O to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * N 
+. . Q R S T 
+U V W X Y Z 
+Move block V to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * N 
+. . Q R S T 
+U . W X Y Z 
+Move block U to the direction e
+. B C D E F 
+. H I J K L 
+. * * * * N 
+. . Q R S T 
+. U W X Y Z 
+Move block U to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * N 
+. . Q R S T 
+. . W X Y Z 
+Move block N to the direction w
+. B C D E F 
+. H I J K L 
+. * * * * . 
+. . Q R S T 
+. . W X Y Z 
+Move block T to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * T 
+. . Q R S . 
+. . W X Y Z 
+Move block T to the direction w
+. B C D E F 
+. H I J K L 
+. * * * * . 
+. . Q R S . 
+. . W X Y Z 
+Move block Z to the direction n
+. B C D E F 
+. H I J K L 
+. * * * * Z 
+. . Q R S . 
+. . W X Y . 
+Move block Z to the direction w
+. B C D E F 
+. H I J K L 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block K to the direction s
+. B C D E F 
+. H I J . L 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block L to the direction w
+. B C D E F 
+. H I J L . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block L to the direction s
+. B C D E F 
+. H I J . . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block E to the direction s
+. B C D . F 
+. H I J . . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block F to the direction w
+. B C D F . 
+. H I J . . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block F to the direction s
+. B C D . . 
+. H I J . . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block H to the direction s
+. B C D . . 
+. . I J . . 
+. * * * * . 
+. . Q R S . 
+. . W X Y . 
+Move block S to the direction n
+. B C D . . 
+. . I J . . 
+. * * * * . 
+. . Q R . . 
+. . W X Y . 
+Move block B to the direction s
+. . C D . . 
+. . I J . . 
+. * * * * . 
+. . Q R . . 
+. . W X Y . 
+Move block Y to the direction n
+. . C D . . 
+. . I J . . 
+. * * * * . 
+. . Q R . . 
+. . W X . . 
+Move block J to the direction s
+. . C D . . 
+. . I . . . 
+. * * * * . 
+. . Q R . . 
+. . W X . . 
+Move block D to the direction s
+. . C . . . 
+. . I . . . 
+. * * * * . 
+. . Q R . . 
+. . W X . . 
+Move block R to the direction n
+. . C . . . 
+. . I . . . 
+. * * * * . 
+. . Q . . . 
+. . W X . . 
+Move block X to the direction n
+. . C . . . 
+. . I . . . 
+. * * * * . 
+. . Q . . . 
+. . W . . . 
+Move block I to the direction e
+. . C . . . 
+. . . . . I 
+. * * * * . 
+. . Q . . . 
+. . W . . . 
+Move block I to the direction s
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . W . . I 
+Move block I to the direction w
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . W I . . 
+Move block I to the direction n
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . W . . . 
+Move block W to the direction w
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+W . . . . . 
+Move block W to the direction n
+W . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . . . . . 
+Move block W to the direction e
+. W C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . . . . . 
+Move block W to the direction s
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . Q . . . 
+. . . . . . 
+Move block Q to the direction e
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . . . . Q 
+. . . . . . 
+Move block Q to the direction s
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+. . . . . Q 
+Move block Q to the direction w
+. . C . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+Q . . . . . 
+Move block Q to the direction n
+Q . C . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+. . . . . . 
+Move block Q to the direction e
+. Q C . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+. . . . . . 
+Move block C to the direction s
+. Q . . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+. . . . . . 
+Move block Q to the direction s
+. . . . . . 
+. . . . . . 
+. * * * * . 
+. . . . . . 
+. . . . . . 
+=== Game Ended ===
+0 block(s) remain(s) in the map
+The escape order is MGAPOVUNTZKLEFHSBYJDRXIWCQ

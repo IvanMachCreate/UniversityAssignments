@@ -1,0 +1,15 @@
+0,Gospel Charity Concert,880,10
+1,GUITAR FEELS,80,20
+2,Charity Music Performance,680,30
+3,JOEY YUNG Pop concert,688,12
+4,Long String Music Development Centre,680,16
+5,Art And Culture Motivation,580,18
+6,Yoga Lin idol World Tour,980,5
+7,All English Songs Concert,50,50
+8,Cultural Stage Creation Centre,680,60
+9,AXA presents Hacken Lee Concert,980,33
+10,Art And Culture Motivation,880,7
+11,Cheng Sir & Friends In Concert,1000,18
+12,Kenneth Choi Memorable Concert,880,20
+13,Revisit Hins Cheung Live,980,13
+14,Mayday Fly To 2023,1380,12

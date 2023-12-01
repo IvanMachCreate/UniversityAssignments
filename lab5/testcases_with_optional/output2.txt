@@ -1,0 +1,57 @@
+Welcome to the Lab 5!
+There are 3 required tasks and 1 optional task: 
+===========================================================
+Task 1: Solve the simplified parenthesis matching problem using recursion!
+Task 2: Solve the variation of Fibonacci problem using recursion!
+Task 3: Implement the power function!
+Task 4 (optional): Merge two sorted arrays into one array in descending order !
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit: Task 1: Solve the simplified parenthesis matching problem using recursion!
+Enter the number of brackets: Each element must be a bracket symbol (i.e. '{', '[', '(', '}', ']', ')').
+Enter the elements of the array: 
+
+The parenthesis is not matching.
+===========================================================
+Task 1: Solve the simplified parenthesis matching problem using recursion!
+Task 2: Solve the variation of Fibonacci problem using recursion!
+Task 3: Implement the power function!
+Task 4 (optional): Merge two sorted arrays into one array in descending order !
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit: Task 2: Solve the variation of Fibonacci problem using recursion!
+Enter the value of n: Enter the value of f0: Enter the value of f1: 
+The 10th Fibonacci number is 233
+The 9th Fibonacci number is 144
+===========================================================
+Task 1: Solve the simplified parenthesis matching problem using recursion!
+Task 2: Solve the variation of Fibonacci problem using recursion!
+Task 3: Implement the power function!
+Task 4 (optional): Merge two sorted arrays into one array in descending order !
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit: Task 3: Implement the power function!
+Enter the base value x: Enter the exponent value n: 
+The value of 2.1^2 is: 4.41
+===========================================================
+Task 1: Solve the simplified parenthesis matching problem using recursion!
+Task 2: Solve the variation of Fibonacci problem using recursion!
+Task 3: Implement the power function!
+Task 4 (optional): Merge two sorted arrays into one array in descending order !
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit: Task 4 (optional): Reorganize the two arrays in a one array sorted in descending order !
+Enter the size of the first array: Enter the elements of the first array (in descending order): 
+Enter the size of the second array: Enter the elements of the second array (in descending order): 
+m(0, 2, 0, 2)
+m(1, 2, 0, 2)
+m(1, 2, 1, 2)
+m(2, 2, 1, 2)
+m(2, 2, 2, 2)
+m(3, 2, 2, 2)
+m(3, 2, 3, 2)
+
+The merge array is: 7 5 5 1 0 -1 
+===========================================================
+Task 1: Solve the simplified parenthesis matching problem using recursion!
+Task 2: Solve the variation of Fibonacci problem using recursion!
+Task 3: Implement the power function!
+Task 4 (optional): Merge two sorted arrays into one array in descending order !
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit: Bye!

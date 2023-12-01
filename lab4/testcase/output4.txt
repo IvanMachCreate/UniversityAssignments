@@ -1,0 +1,22 @@
+Enter positive integer values for array 1 (enter -1 to stop): 
+Enter positive integer values for array 2 (enter -1 to stop): 
+=========================================
+Array 1: 2 0 6 5 7 
+Array 2: 3 6 4 3 8 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Select the array (1 or 2): Enter the number of steps to rotate array 2: Array 2 after rotation: 4 3 8 3 6 
+=========================================
+Array 1: 2 0 6 5 7 
+Array 2: 4 3 8 3 6 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Bye!

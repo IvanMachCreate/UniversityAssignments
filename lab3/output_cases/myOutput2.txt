@@ -1,0 +1,9 @@
+Hello, welcome to lab3 (Function & FileIO)
+The path for input cases (e.g   ./input_cases/case5.txt ) :
+17
+29
+67
+17
+37
+67
+Finish! Please check whether the results are correct :)

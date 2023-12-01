@@ -1,0 +1,42 @@
+Enter positive integer values for array 1 (enter -1 to stop): 
+Enter positive integer values for array 2 (enter -1 to stop): 
+=========================================
+Array 1: 1 2 3 4 
+Array 2: 2 3 4 1 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Arrays are not same!
+=========================================
+Array 1: 1 2 3 4 
+Array 2: 2 3 4 1 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Select the array (1 or 2): Enter the number of steps to rotate array 1: Array 1 after rotation: 2 3 4 1 
+=========================================
+Array 1: 2 3 4 1 
+Array 2: 2 3 4 1 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Arrays are same!
+=========================================
+Array 1: 2 3 4 1 
+Array 2: 2 3 4 1 
+
+Menu:
+1 to check if the two arrays are the same
+2 to rotate an array
+-1 to quit
+
+Enter your option (1, 2 or -1): Bye!

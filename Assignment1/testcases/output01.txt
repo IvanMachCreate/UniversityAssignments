@@ -1,0 +1,51 @@
+The original map: 
+A . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C . . . . . # . 
+. . . . . . . B . * 
+Move block A to the direction e
+. . . . . . . A # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C . . . . . # . 
+. . . . . . . B . * 
+Move block A to the direction s
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C . . . . A # . 
+. . . . . . . B . * 
+Move block A to the direction w
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C A . . . . # . 
+. . . . . . . B . * 
+Move block A to the direction n
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C . . . . . # . 
+. . . . . . . B . * 
+Move block B to the direction e
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . C . . . . . # . 
+. . . . . . . . . * 
+Move block C to the direction s
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . . . . . . . # . 
+. . C . . . . . . * 
+Move block C to the direction e
+. . . . . . . . # . 
+. . . . . . . . # . 
+. . . * . . . . # . 
+. . . . . . . . # . 
+. . . . . . . . . * 
+=== Game Ended ===
+0 block(s) remain(s) in the map
+The escape order is ABC

@@ -1,0 +1,39 @@
+The original map: 
+O * A B C 
+N . . . D 
+M . Z . E 
+L . . . F 
+K J I H G 
+Move block Z to the direction n
+O * A B C 
+N . Z . D 
+M . . . E 
+L . . . F 
+K J I H G 
+Move block Z to the direction e
+O * A B C 
+N . . Z D 
+M . . . E 
+L . . . F 
+K J I H G 
+Move block Z to the direction s
+O * A B C 
+N . . . D 
+M . . . E 
+L . . Z F 
+K J I H G 
+Move block Z to the direction w
+O * A B C 
+N . . . D 
+M . . . E 
+L Z . . F 
+K J I H G 
+Move block Z to the direction n
+O * A B C 
+N . . . D 
+M . . . E 
+L . . . F 
+K J I H G 
+=== Game Ended ===
+15 block(s) remain(s) in the map
+The escape order is Z

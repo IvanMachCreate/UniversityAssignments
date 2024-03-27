@@ -1,0 +1,99 @@
+The original map: 
+. . . . L . . . . . 
+. T K . A B C Z O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction n
+. . . . L . . Z . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction e
+. . . . L . . . . Z 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction s
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . Z 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction w
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V Z . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction s
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . Z . . . . # 
+Move block Z to the direction e
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . Z # 
+Move block Z to the direction w
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+Z . . . . . . . . # 
+Move block Z to the direction n
+Z . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction e
+. . . Z L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction s
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J Z . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+Move block Z to the direction e
+. . . . L . . . . . 
+. T K . A B C . O . 
+. S J . . * D M N . 
+. R I H G F E P Q . 
+. # # V . . . . . . 
+. W U Y . # # # X # 
+. . . . . . . . . # 
+=== Game Ended ===
+25 block(s) remain(s) in the map
+The escape order is Z

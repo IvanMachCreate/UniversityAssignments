@@ -1,0 +1,39 @@
+The original map: 
+. . * . . 
+. . . . . 
+* O G A * 
+. . L . # 
+. . . * . 
+Move block G to the direction n
+. . * . . 
+. . . . . 
+* O . A * 
+. . L . # 
+. . . * . 
+Move block O to the direction w
+. . * . . 
+. . . . . 
+* . . A * 
+. . L . # 
+. . . * . 
+Move block A to the direction e
+. . * . . 
+. . . . . 
+* . . . * 
+. . L . # 
+. . . * . 
+Move block L to the direction e
+. . * . . 
+. . . . . 
+* . . . * 
+. . . L # 
+. . . * . 
+Move block L to the direction s
+. . * . . 
+. . . . . 
+* . . . * 
+. . . . # 
+. . . * . 
+=== Game Ended ===
+0 block(s) remain(s) in the map
+The escape order is GOAL

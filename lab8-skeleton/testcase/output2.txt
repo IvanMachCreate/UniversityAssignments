@@ -1,0 +1,102 @@
+************* WELCOME TO TICKETING SYSTEM *************
+
+Operation Menu:
+1. Display informaion of shows.
+2. Ticket Booking.
+3. For sale.
+4. Exit.
+
+Please choose your operation: 
+================================================================================
+ID        Show Name                                         Price     STOCK
+================================================================================
+0         Gospel Charity Concert                            880       10
+1         GUITAR FEELS                                      80        20
+2         Charity Music Performance                         680       30
+3         JOEY YUNG Pop concert                             688       12
+4         Long String Music Development Centre              680       16
+5         Art And Culture Motivation                        580       18
+6         Yoga Lin idol World Tour                          980       5
+7         All English Songs Concert                         50        50
+8         Cultural Stage Creation Centre                    680       60
+9         AXA presents Hacken Lee Concert                   980       33
+10        Art And Culture Motivation                        880       7
+11        Cheng Sir & Friends In Concert                    1000      18
+12        Kenneth Choi Memorable Concert                    880       20
+13        Revisit Hins Cheung Live                          980       13
+14        Mayday Fly To 2023                                1380      12
+================================================================================
+
+
+************* WELCOME TO TICKETING SYSTEM *************
+
+Operation Menu:
+1. Display informaion of shows.
+2. Ticket Booking.
+3. For sale.
+4. Exit.
+
+Please choose your operation: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Please enter the id of the show you want to watch: 
+How many tickets do you want to purchase? 
+Do you want priority booking? [y/n]: 
+Do you want to continue with a new order? [y/n]: 
+Orders Information (Task 1): 
+================================================================================
+Order id    Show id     Number      Priority
+================================================================================
+0           1           2           0
+1           2           4           1
+2           6           2           0
+3           1           6           1
+4           1           6           0
+5           6           2           1
+================================================================================
+
+
+************* WELCOME TO TICKETING SYSTEM *************
+
+Operation Menu:
+1. Display informaion of shows.
+2. Ticket Booking.
+3. For sale.
+4. Exit.
+
+Please choose your operation: 
+================================================================================
+The order_id of sorted results (Task 2): 
+1
+3
+5
+0
+2
+4
+================================================================================
+The order_id of finished orders (Task 3): 
+1
+3
+5
+0
+2
+4
+*********************** END OF TICKETING SYSTEM ***********************

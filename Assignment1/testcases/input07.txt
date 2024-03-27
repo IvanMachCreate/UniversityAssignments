@@ -1,0 +1,20 @@
+7 10
+....L.....
+.TK.ABCZO.
+.SJ..*DMN.
+.RIHGFEPQ.
+.##V......
+.WUY.###X#
+.........#
+Z n
+Z e
+Z s
+Z w
+Z s
+Z e
+Z w
+Z n
+Z e
+Z s
+Z e
+! !

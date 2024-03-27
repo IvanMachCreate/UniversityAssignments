@@ -1,0 +1,20 @@
+Welcome to Sudoku! Please select an option to play! (5 for developer mode)
+1.Load a grid and play
+2.Randomly fill a loaded grid
+3.Compute number of solutions of a loaded grid
+4.Generate a Sudoku grid with only one solution
+The path for grid (e.g. ./grids/grid1.txt ) :
+Get the following grid:
+_ _ _ | 7 4 _ | 3 _ 1 
+_ _ _ | _ _ _ | 4 _ _ 
+_ _ _ | _ _ _ | _ 6 5 
+------+-------+-------
+_ _ 2 | 4 _ _ | _ _ _ 
+_ _ 9 | 2 _ _ | _ _ _ 
+1 4 _ | 3 _ _ | 6 _ _ 
+------+-------+-------
+_ _ 7 | _ 8 _ | _ _ _ 
+_ 2 8 | 6 _ 9 | _ _ 4 
+_ 3 _ | _ _ _ | _ _ 6 
+The number of solution in this Sudoku grid is 289
+Do you want to save current grid? (Y/N)
